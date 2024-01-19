@@ -13,7 +13,7 @@
       ],
       "smartStep": true,
       "internalConsoleOptions": "openOnSessionStart",
-      "restart": true,
+      "restart": true
     },
     {
       "name": "Next.js: debug server-side",
